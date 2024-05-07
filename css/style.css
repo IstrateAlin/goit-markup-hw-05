@@ -63,6 +63,7 @@ img {
   color: var(--blue);
 }
 .header__navigation a {
+  color: var(--black);
   font-weight: 500;
   font-size: 14px;
   line-height: 1.4em;
